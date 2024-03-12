@@ -144,12 +144,3 @@ h2 {
 .info {
     flex-wrap: wrap;
 }
-@media only screen and (max-width: 480px) {
-    header{
-        background-size: 35% 35%;
-    }
-    nav img{
-        height:15px;
-    }
-
-}
